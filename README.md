@@ -37,5 +37,5 @@ Currently applying for **Cybersecurity Apprenticeships 2025/26**, with Amazon as
 
 ---
 
-🌐 Portfolio PDF: [bit.ly/3JP2px](https://bit.ly/3JP2pxe))  
+🌐 Portfolio PDF: [bit.ly/3JP2px](https://bit.ly/3JP2pxe) 
 📧 Contact: 10taaha.nadeem@gmail.com  📞 07887584147
