@@ -1,4 +1,4 @@
-# cybersecurity-portfolio
+# Cybersecurity-portfolio
 Cybersecurity and Python projects developed during my preparation for apprenticeship applications
 # Taaha Nadeem – Cybersecurity Portfolio 🚀  
 
