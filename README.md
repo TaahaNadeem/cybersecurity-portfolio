@@ -9,7 +9,11 @@ This repository showcases the projects, labs, and certifications I’m working o
 
 ## 🔹 Python Projects  
 Practical coding projects that show my programming skills in action:  
-- **Password Generator** – Creates strong random passwords to improve security.  
+- ### Password Generator  
+Creates strong random passwords to improve security.  
+
+**Output Example:**  
+![Password Generator Output](screenshots/password-generator-output.png) 
 - **Port Scanner** – Scans for open ports on a system to identify vulnerabilities.  
 - **Website Uptime Checker** – Monitors if a site is online and responsive.  
 
