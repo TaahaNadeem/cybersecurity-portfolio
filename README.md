@@ -16,10 +16,11 @@ The default password length is 16 characters.
 
 **Tools Used:** Python, random, string
 
-**Key Skills Learned:**  
-- Generating secure passwords programmatically  
-- Using Python’s random and string modules  
-- Writing clean, functional Python scripts
+**Key Skills Demonstrated:**  
+- Programmatically generating secure passwords  
+- Applying Python’s random and string modules  
+- Writing maintainable and readable Python code
+
 
 **Screenshot:**  
 ![Password Generator Output](screenshots/password_generator_output.png)
@@ -33,10 +34,11 @@ A Python script that scans open TCP ports on a target IP using threading for fas
 
 **Tools Used:** Python, socket library, threading
 
-**Key Skills Learned:**  
-- TCP port scanning basics  
-- Using Python threading for concurrency  
-- Exception handling and safe lab testing
+**Key Skills Demonstrated:**  
+- TCP port scanning fundamentals  
+- Implementing concurrency with Python threading  
+- Handling exceptions and safe testing in lab environments
+
 
 **Screenshot:**  
 ![Port Scanner Output](screenshots/port_scanner_output.png)
