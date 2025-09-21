@@ -8,4 +8,4 @@ def generate_password(length=12):
 
 if __name__ == "__main__":
     print("Generated password:", generate_password(16))
-
+    
