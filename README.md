@@ -12,11 +12,12 @@ Practical coding projects that show my programming skills in action:
 - ### Password Generator  
 **Description:**  
 A Python script that generates strong, random passwords based on user-specified length and complexity.
- **Tools Used:** Python, random module
+**Tools Used:** Python, random module
 **Key Skills Learned:**  
 - Generating random passwords  
 - User input handling  
 - Writing clean, functional Python code
+  
 **Output Example:**  
 ![Password Generator Output](screenshots/password-generator-output.png) 
 - **Port Scanner** – Scans for open ports on a system to identify vulnerabilities.  
