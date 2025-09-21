@@ -10,18 +10,22 @@ This repository showcases the projects, labs, and certifications I’m working o
 ## 🔹 Python Projects  
 Practical coding projects that show my programming skills in action:  
 - ### Password Generator  
-**Description:**  
-A Python script that generates strong, random passwords based on user-specified length and complexity.
 
-**Tools Used:** Python, random module
+**Description:**  
+A Python script that generates strong, random passwords based on user input.  
+The default password length is 16 characters.
+
+**Tools Used:** Python, random, string
 
 **Key Skills Learned:**  
-- Generating random passwords  
-- User input handling  
-- Writing clean, functional Python code
-  
-**Output Example:**  
+- Generating secure passwords programmatically  
+- Using Python’s random and string modules  
+- Writing clean, functional Python scripts
+
+**Screenshot:**  
 ![Password Generator Output](screenshots/password_generator_output.png)
+
+[View the code](project%20files/password_generator.py)
 
 - **Port Scanner** – Scans for open ports on a system to identify vulnerabilities.
 - **Description:**  
