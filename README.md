@@ -25,6 +25,8 @@ The default password length is 16 characters.
 **Screenshot:**  
 ![Password Generator Output](screenshots/password_generator_output.png)
 
+Add Password Generator section to README
+
 - **Port Scanner** – Scans for open ports on a system to identify vulnerabilities.
 - **Description:**  
 A Python script that scans open TCP ports on a target IP in a safe lab environment.
