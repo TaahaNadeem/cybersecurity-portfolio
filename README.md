@@ -33,7 +33,7 @@ A Python script that scans open TCP ports on a target IP in a safe lab environme
 - TCP port scanning  
 - Exception handling in Python
 
-- **Output Example:**  
+ **Output Example:**  
 - **Website Uptime Checker** – Monitors if a site is online and responsive.  
 
 ---
