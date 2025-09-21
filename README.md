@@ -46,7 +46,8 @@ A Python script that scans open TCP ports on a target IP using threading for fas
 - ### Website Uptime Checker  
 
 **Description:**  
-A Python script that monitors whether a website is online and responsive. Useful for basic uptime monitoring in lab environments.
+A Python script that monitors whether a website is online and responsive, suitable for basic uptime monitoring in lab environments.
+
 
 **Tools Used:** Python, requests library
 
