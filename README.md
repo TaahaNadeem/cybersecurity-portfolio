@@ -27,18 +27,23 @@ The default password length is 16 characters.
 
 [View the code](python-projects/password_generator.py)
 
-- **Port Scanner** – Scans for open ports on a system to identify vulnerabilities.
-- **Description:**  
-A Python script that scans open TCP ports on a target IP in a safe lab environment.
+- **Port Scanner**
 
-**Tools Used:** Python, socket library
+**Description:**  
+A Python script that scans open TCP ports on a target IP using threading for faster results. Safe to run on localhost or lab environment.
+
+**Tools Used:** Python, socket library, threading
 
 **Key Skills Learned:**  
-- Network programming basics  
-- TCP port scanning  
-- Exception handling in Python
+- TCP port scanning basics  
+- Using Python threading for concurrency  
+- Exception handling and safe lab testing
 
- **Output Example:**  
+**Screenshot:**  
+![Port Scanner Output](screenshots/port_scanner_output.png)
+
+[View the code](python-projects/port-scanner.py)
+
 - **Website Uptime Checker** – Monitors if a site is online and responsive.  
 
 ---
