@@ -25,7 +25,7 @@ The default password length is 16 characters.
 
 [View the code](python-projects/password_generator.py)
 
-- **Port Scanner**
+- ### Port Scanner
 
 **Description:**  
 A Python script that scans open TCP ports on a target IP using threading for faster results. Safe to run on localhost or lab environment.
@@ -43,7 +43,6 @@ A Python script that scans open TCP ports on a target IP using threading for fas
 
 [View the code](python-projects/port-scanner.py)
 
-- **Website Uptime Checker**
 - ### Website Uptime Checker  
 
 **Description:**  
@@ -59,7 +58,7 @@ A Python script that monitors whether a website is online and responsive. Useful
 **Screenshot:**  
 ![Website Uptime Checker Output](screenshots/website_uptime_checker_output.png)
 
-[View the code](project files/python_website_uptime_checker.py)
+[View the code](python-projects/website)
 
 
 ---
