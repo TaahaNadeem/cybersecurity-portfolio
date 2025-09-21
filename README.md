@@ -1,8 +1,5 @@
 # Taaha Nadeem – Cybersecurity Portfolio
-Showcasing Python and cybersecurity projects developed in preparation for apprenticeship applications.
-
-Welcome! This portfolio showcases my Python and cybersecurity projects, labs, and certifications, highlighting the skills I’m developing for a Cybersecurity Apprenticeship.
-
+This portfolio showcases my Python and cybersecurity projects, labs, and certifications, highlighting the technical skills and hands-on experience I’m developing in preparation for Cybersecurity Apprenticeships.
 
 ---
 
