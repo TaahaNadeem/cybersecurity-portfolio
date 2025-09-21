@@ -7,7 +7,7 @@ This repository showcases the projects, labs, and certifications I’m working o
 ---
 
 ## 🔹 Python Projects  
-Practical coding projects that show my programming skills in action:  
+Practical coding projects demonstrating programming, cybersecurity, and problem-solving skills in real-world scenarios.
 - ### Password Generator  
 
 **Description:**  
