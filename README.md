@@ -4,7 +4,8 @@ This portfolio showcases my Python and cybersecurity projects, labs, and certifi
 ---
 
 ## 🔹 Python Projects  
-Practical coding projects demonstrating programming, cybersecurity, and problem-solving skills in real-world scenarios.
+Practical coding projects demonstrating programming, cybersecurity, and problem-solving skills in real-world scenarios. Each project is designed to showcase both coding ability and security-focused problem solving.
+
 - ### Password Generator  
 
 **Description:**  
