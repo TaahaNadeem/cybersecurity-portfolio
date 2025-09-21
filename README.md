@@ -22,7 +22,18 @@ A Python script that generates strong, random passwords based on user-specified 
   
 **Output Example:**  
 ![Password Generator Output](screenshots/password-generator-output.png) 
-- **Port Scanner** – Scans for open ports on a system to identify vulnerabilities.  
+- **Port Scanner** – Scans for open ports on a system to identify vulnerabilities.
+- **Description:**  
+A Python script that scans open TCP ports on a target IP in a safe lab environment.
+
+**Tools Used:** Python, socket library
+
+**Key Skills Learned:**  
+- Network programming basics  
+- TCP port scanning  
+- Exception handling in Python
+
+- **Output Example:**  
 - **Website Uptime Checker** – Monitors if a site is online and responsive.  
 
 ---
