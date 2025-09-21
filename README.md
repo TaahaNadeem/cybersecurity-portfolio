@@ -58,7 +58,7 @@ A Python script that monitors whether a website is online and responsive. Useful
 **Screenshot:**  
 ![Website Uptime Checker Output](screenshots/website_uptime_checker_output.png)
 
-[View the code](python-projects/website)
+[View the code](python-projects/python_website_uptime_checker.py)
 
 
 ---
