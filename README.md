@@ -21,7 +21,8 @@ A Python script that generates strong, random passwords based on user-specified 
 - Writing clean, functional Python code
   
 **Output Example:**  
-![Password Generator Output](screenshots/password-generator-output.png) 
+![Password Generator Output](screenshots/password_generator_output.png)
+
 - **Port Scanner** – Scans for open ports on a system to identify vulnerabilities.
 - **Description:**  
 A Python script that scans open TCP ports on a target IP in a safe lab environment.
