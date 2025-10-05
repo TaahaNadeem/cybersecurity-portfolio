@@ -36,7 +36,18 @@
 Enabled and configured UFW on Ubuntu to block port 8000.
 
 **Commands executed:**
-```bash
-sudo ufw --force enable
-sudo ufw deny 8000/tcp
-nmap -sV -p 8000 192.168.56.101 -oN nmap_after_ufw_block.txt
+- sudo ufw --force enable
+- sudo ufw deny 8000/tcp
+
+**Screenshot:**  
+![Nmap with HTTP Server](../screenshots/nmap_with_http8000.png)
+
+
+---
+
+## 4️⃣ Verification Scan After Firewall
+**Command:**
+- nmap -sV -p 8000 192.168.56.101 -oN nmap_after_ufw_block.txt
+
+**Screenshot:**  
+![Nmap with HTTP Server](../screenshots/nmap_with_http8000.png)
