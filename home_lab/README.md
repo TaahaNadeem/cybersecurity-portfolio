@@ -31,7 +31,7 @@
 ---
 
 
-## 🔹 3️⃣ Firewall Configuration (UFW)
+## 3️⃣ Firewall Configuration (UFW)
 Enabled and configured UFW on Ubuntu to block port 8000.
 
 **Commands executed:**
