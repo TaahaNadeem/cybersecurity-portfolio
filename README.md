@@ -65,10 +65,22 @@ A Python script that monitors whether a website is online and responsive, suitab
 ---
 
 ## 🔹 Cybersecurity Home Lab  
-Hands-on technical practice built on **VirtualBox** with **Kali Linux** and **Ubuntu VMs**:  
-- Ran **Nmap scans** to explore networks.  
-- Tested **firewall rules** and configurations.  
-- Practiced **basic penetration testing** techniques.  
+My Cybersecurity Home Lab simulates a real attacker–defender environment using VirtualBox, Ubuntu, and Windows.  
+This project demonstrates my ability to perform network reconnaissance, identify open services, and secure systems using Linux firewall rules.  
+
+**Overview:**
+- Conducted **Nmap network scans** to detect open ports and running services.  
+- Deployed a **Python HTTP server** on Ubuntu to simulate a live target.  
+- Configured **UFW (Uncomplicated Firewall)** to restrict access and verified the protection using re-scans.  
+
+📁 [View the full Home Lab project →](home_lab/README.md)
+
+**Screenshots:**
+- ![Initial Scan](screenshots/nmap_initial.png)
+- ![Open Port Detected](screenshots/nmap_with_http8000.png)
+- ![Firewall Rule Applied](screenshots/ufw_status.png)
+- ![After Blocking Port](screenshots/nmap_after_ufw_block.png)
+ 
 
 ---
 
