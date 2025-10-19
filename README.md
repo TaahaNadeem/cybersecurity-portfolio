@@ -85,7 +85,10 @@ This project demonstrates my ability to perform network reconnaissance, identify
 ---
 
 ## 🔹 Certifications & Learning  
-- **TryHackMe** – Intro to Cybersecurity Path (In Progress).  
+- **TryHackMe – Introduction to Cyber Security Path** *(Completed October 2025)*  
+  Hands-on labs covering networking, Linux, Windows, and web security fundamentals.  
+  [View Progress Screenshot](../screenshots/tryhackme_path_progress.png)
+  
 - **freeCodeCamp** – Python Programming (In Progress).  
 - **Future**: AWS Cloud Practitioner, CompTIA Security+.  
 
