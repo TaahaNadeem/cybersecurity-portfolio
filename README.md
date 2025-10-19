@@ -89,8 +89,15 @@ This project demonstrates my ability to perform network reconnaissance, identify
   Completed hands-on labs covering networking, Linux, Windows, and web security fundamentals.  
   → [View badges and progress screenshots](./tryhackme/)
   
-- **freeCodeCamp** – Python Programming (In Progress).  
-- **Future**: AWS Cloud Practitioner, CompTIA Security+.  
+- **FreeCodeCamp – Python for Beginners** *(Planned November 2025)*  
+  Expanding Python programming knowledge to improve automation and scripting for cybersecurity tasks.
+
+- **CompTIA Security+** *(Planned for 2026)*  
+  Preparing to pursue this foundational certification after starting my cybersecurity degree apprenticeship.
+
+- **AWS Cloud Practitioner (Intro)** *(Optional 2026)*  
+  Exploring cloud platforms and security concepts to align with enterprise-level cybersecurity practices.
+
 
 ---
 
