@@ -43,7 +43,8 @@ I completed all free modules within the Introduction to Cyber Security path and 
 ---
 
 ## Next Steps
-- Begin **TryHackMe SOC Level 1 Path** (defensive security)  
-- Work toward **CompTIA Security+** certification (target: April 2025)  
-- Continue expanding home lab with cloud and networking projects
+- Continue studying toward **CompTIA Security+** to strengthen my theoretical cyber foundations.  
+- Begin **TryHackMe SOC Level 1 Path** in early 2026 to gain hands-on defensive security skills.  
+- Explore **AWS Cloud Practitioner** materials to understand cloud security principles, especially relevant for Amazon’s cybersecurity environment.
+
 
