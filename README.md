@@ -92,10 +92,10 @@ This project demonstrates my ability to perform network reconnaissance, identify
 - **FreeCodeCamp – Python for Beginners** *(Planned November 2025)*  
   Expanding Python programming knowledge to improve automation and scripting for cybersecurity tasks.
 
-- **CompTIA Security+** *(Planned for 2026)*  
+- **CompTIA Security+** *(Planned for 2026 degree apprenterships)*  
   Preparing to pursue this foundational certification after starting my cybersecurity degree apprenticeship.
 
-- **AWS Cloud Practitioner (Intro)** *(Optional 2026)*  
+- **AWS Cloud Practitioner (Intro)** *(Optional 2027)*  
   Exploring cloud platforms and security concepts to align with enterprise-level cybersecurity practices.
 
 
