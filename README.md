@@ -84,22 +84,21 @@ This project demonstrates my ability to perform network reconnaissance, identify
 
 ---
 
-## 🔹 Certifications & Learning  
-- **TryHackMe – Introduction to Cyber Security Path** *(Completed core modules – Oct 2025)*  
-  Completed hands-on labs covering networking, Linux, Windows, and web security fundamentals.  
+  ### 🔹 Certifications & Learning
+
+- 🔐 **TryHackMe – Introduction to Cyber Security Path** *(Completed core modules – Oct 2025)*  
+  Hands-on labs covering networking, Linux, Windows and web security fundamentals.  
   → [View badges and progress screenshots](./tryhackme/)
-  
-- **SoloLearn – Introduction to Python** *(Completed October 2025)*  
-  Earned a verified certificate demonstrating core programming knowledge, including variables, loops, and functions.  
-  [View Certificate](./certifications/sololearn-intro-to-python.pdf)
 
+- 🐍 **SoloLearn – Introduction to Python** *(Completed October 2025)*  
+  Earned a verified certificate demonstrating core programming skills (variables, loops, functions).  
+  → [View Certificate](./certifications/sololearn-intro-to-python.pdf)
 
-- **CompTIA Security+** *(Planned for 2026 Degree Apprenticeship)*  
-  I plan to work toward this certification while doing my degree apprenticeship to strengthen my understanding of core cybersecurity skills.
+- 💻 **CompTIA Security+** *(Planned for 2026 Degree Apprenticeship)*  
+  Planning to work toward this certification alongside my degree apprenticeship to strengthen core cybersecurity skills.
 
-- **AWS Cloud Practitioner (Intro)** *(Planned 2026–27)*  
-  I want to learn more about cloud computing and security since it’s becoming a big part of modern cybersecurity jobs.
-
+- ☁️ **AWS Cloud Practitioner (Intro)** *(Planned 2026-27)*  
+  Keen to learn more about cloud computing and security since many modern cyber roles involve cloud environments.
 
 
 ---
