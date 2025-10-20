@@ -108,7 +108,7 @@ Through this project, I learned how to scan networks, identify open ports, host 
 
 I’m currently studying **BTEC Level 3 Applied Science** at **The Sixth Form Bolton (2024–2026)** and developing a strong interest in **cybersecurity, ethical hacking, and programming**.  
 
-Since September 2025, I’ve been working on this portfolio every Sunday to prepare for Cybersecurity Degree Apprenticeships starting in 2026.  
+Over the past few months, I’ve been working on this portfolio every week to prepare for Cybersecurity Degree Apprenticeships starting in 2026.  
 I’m aiming to join a company or university that offers **hands-on experience and real-world learning**, where I can keep improving my technical and problem-solving skills.
 
 I enjoy learning by doing — building small tools, setting up labs, and finding creative ways to understand how things work in tech and security.
