@@ -40,6 +40,7 @@ This path taught me core defensive and offensive concepts through short, hands-o
 - Familiarity with guided virtual labs and safe testing
 
 ### Next steps
-- Continue with **TryHackMe SOC Level 1** early 2026 to get hands-on defensive skills.  
-- Begin studying **CompTIA Security+** to solidify theory alongside my apprenticeship.  
-- Start AWS Cloud Practitioner intro materials to understand cloud security basics.
+- Begin studying for **CompTIA Security+** in 2026 alongside my degree apprenticeship to strengthen my cybersecurity fundamentals.  
+- Explore **AWS Cloud Practitioner (Intro)** later in 2026–27 to expand my understanding of cloud and enterprise security.  
+- Continue applying the skills I’ve learned from TryHackMe and my home lab to real-world cybersecurity environments.
+  
