@@ -18,7 +18,7 @@ This path taught me core defensive and offensive concepts through short, hands-o
 | How The Web Works | HTTP/HTTPS, DNS and request/response cycles |
 | Linux Fundamentals (Part 1) | Basic terminal commands, file system navigation |
 | Windows Fundamentals (1–3) | Windows structure, user accounts, event logs |
----
+
 
 ## Badges Earned 
 (Images and badges below show the badges i have earned, my TryHackMe progress and a screenshot of the path dashboard.)
