@@ -1,9 +1,10 @@
 # Taaha Nadeem – Cybersecurity Portfolio
-Cybersecurity and Python projects built while preparing for 2026 Degree Apprenticeships.  
-Focused on practical learning, problem-solving, and real-world security skills.
+  
+Cybersecurity and Python projects built while preparing for 2026 Degree Apprenticeships — focused on practical learning, problem-solving, and real-world security skills.
 
 This portfolio shows the Python and cybersecurity projects I’ve worked on — from small coding tasks to hands-on labs and certifications.  
-I built this to show the skills and experience I’m developing while preparing for **Cybersecurity Degree Apprenticeships starting in 2026**.
+I built this to show the skills and experience I’m developing while preparing for **Cybersecurity Degree Apprenticeships starting in 2026.**
+
 
 ---
 
