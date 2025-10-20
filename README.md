@@ -89,8 +89,10 @@ This project demonstrates my ability to perform network reconnaissance, identify
   Completed hands-on labs covering networking, Linux, Windows, and web security fundamentals.  
   → [View badges and progress screenshots](./tryhackme/)
   
-- **FreeCodeCamp – Python for Beginners** *(Planned November 2025)*  
-  Expanding Python programming knowledge to improve automation and scripting for cybersecurity tasks.
+- **SoloLearn – Introduction to Python** *(Completed October 2025)*  
+  Earned a verified certificate demonstrating core programming knowledge, including variables, loops, and functions.  
+  [View Certificate](./certifications/sololearn-intro-to-python.pdf)
+
 
 - **CompTIA Security+** *(Planned for 2026 degree apprenterships)*  
   Preparing to pursue this foundational certification after starting my cybersecurity degree apprenticeship.
