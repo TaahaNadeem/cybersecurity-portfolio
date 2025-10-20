@@ -27,7 +27,7 @@ This path taught me core defensive and offensive concepts through short, hands-o
 ![Webbed Badge](screenshots/badge_webbed.png)
 ![First Four Badge](screenshots/badge_firstfour.png)
 
-* progress:*  
+*progress:* 
 ![TryHackMe Path Progress](screenshots/tryhackme_path_progress.png)
 
 ---
