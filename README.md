@@ -43,7 +43,8 @@ I used threading to make it run faster and tested it safely within my home lab.
 
 **Screenshot:**  
 ![Port Scanner Output](screenshots/port_scanner_output.png)
-→ [View the code](python-projects/port-scanner.py)
+
+→[View the code](python-projects/port-scanner.py)
 
 ---
 
