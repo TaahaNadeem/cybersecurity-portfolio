@@ -19,6 +19,7 @@ This path taught me core defensive and offensive concepts through short, hands-o
 | Linux Fundamentals (Part 1) | Basic terminal commands, file system navigation |
 | Windows Fundamentals (1–3) | Windows structure, user accounts, event logs |
 
+---
 
 ## Badges Earned 
 (Images and badges below show the badges i have earned, my TryHackMe progress and a screenshot of the path dashboard.)
@@ -42,5 +43,3 @@ This path taught me core defensive and offensive concepts through short, hands-o
 - Continue with **TryHackMe SOC Level 1** early 2026 to get hands-on defensive skills.  
 - Begin studying **CompTIA Security+** to solidify theory alongside my apprenticeship.  
 - Start AWS Cloud Practitioner intro materials to understand cloud security basics.
-
-
