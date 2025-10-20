@@ -21,7 +21,7 @@ This path taught me core defensive and offensive concepts through short, hands-o
 ---
 
 ## Badges Earned 
-(Images and badges below show the Badges i have earned, my TryHackMe progress and a screenshot of the path dashboard.)
+(Images and badges below show the badges i have earned, my TryHackMe progress and a screenshot of the path dashboard.)
 ![Linux Fundamentals Badge](screenshots/badge_linux.png)
 ![How The Web Works Badge](screenshots/badge_worldwideweb.png)
 ![Webbed Badge](screenshots/badge_webbed.png)
