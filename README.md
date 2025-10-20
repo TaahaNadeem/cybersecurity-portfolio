@@ -94,19 +94,27 @@ This project demonstrates my ability to perform network reconnaissance, identify
   [View Certificate](./certifications/sololearn-intro-to-python.pdf)
 
 
-- **CompTIA Security+** *(Planned for 2026 degree apprenterships)*  
-  Preparing to pursue this foundational certification after starting my cybersecurity degree apprenticeship.
+- **CompTIA Security+** *(Planned for 2026 Degree Apprenticeship)*  
+  I plan to work toward this certification while doing my degree apprenticeship to strengthen my understanding of core cybersecurity skills.
 
-- **AWS Cloud Practitioner (Intro)** *(Optional 2027)*  
-  Exploring cloud platforms and security concepts to align with enterprise-level cybersecurity practices.
+- **AWS Cloud Practitioner (Intro)** *(Planned 2026–27)*  
+  I want to learn more about cloud computing and security since it’s becoming a big part of modern cybersecurity jobs.
+
 
 
 ---
 
-## 🔹 About Me  
-I’m a college student studying **BTEC Level 3 Applied Science** at The Sixth Form Bolton (2024–2026).  
-Passionate about technology, problem-solving, and ethical hacking.  
-Currently applying for **Cybersecurity Apprenticeships 2025/26**, with Amazon as my #1 goal.  
+### 👤 About Me  
+
+I’m currently studying **BTEC Level 3 Applied Science** at **The Sixth Form Bolton (2024–2026)** and developing my interest in **cybersecurity, ethical hacking, and programming**.  
+
+Over the past few months, I’ve been building this portfolio from scratch to prepare for **Cyber Security Degree Apprenticeships starting in 2026**.  
+I’m aiming to start with a **company or university that offers hands-on experience and real-world learning**, where I can keep building my skills in cybersecurity and technology.  
+
+I enjoy learning by doing — building small tools, experimenting in home labs, and improving my problem-solving skills each week.  
+
+📩 **Contact:** [10taaha.nadeem@gmail.com](mailto:10taaha.nadeem@gmail.com) | 📱 07887 584147  
+
 
 ---
 
