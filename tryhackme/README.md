@@ -5,9 +5,8 @@
 
 ---
 
-## Overview
-This path introduced me to key areas of cybersecurity through hands-on, guided labs.  
-I completed all free modules within the Introduction to Cyber Security path and earned multiple badges demonstrating consistent learning and applied skills.
+**Overview**  
+This path taught me core defensive and offensive concepts through short, hands-on labs. I completed the free modules to build a practical foundation in networking, Linux, Windows and web fundamentals.
 
 ---
 
@@ -20,6 +19,14 @@ I completed all free modules within the Introduction to Cyber Security path and 
 | **Linux Fundamentals (Part 1)** | ✅ | Terminal commands, file system navigation, permissions |
 | **Windows Fundamentals (1–3)** | ✅ | Windows structure, user management, system tools, and event logs |
 
+### Modules completed (summary)
+| Module | What I learned |
+|---|---|
+| Introduction to Cyber Security | Basic cyber concepts, attack types, careers |
+| Network Fundamentals (What is Networking?) | IP addresses, ports, and basic TCP/IP ideas |
+| How The Web Works | HTTP/HTTPS, DNS and request/response cycles |
+| Linux Fundamentals (Part 1) | Basic terminal commands, file system navigation |
+| Windows Fundamentals (1–3) | Windows structure, user accounts, event logs |
 ---
 
 ## Badges Earned
@@ -33,18 +40,15 @@ I completed all free modules within the Introduction to Cyber Security path and 
 
 ---
 
-## Key Skills Developed
-- Network fundamentals and TCP/IP understanding  
-- Linux and Windows system administration basics  
-- Web application structure and request/response cycles  
-- Cybersecurity principles: confidentiality, integrity, availability  
-- Familiarity with virtual lab environments and ethical testing  
+### Key skills developed
+- Network fundamentals and TCP/IP basics  
+- Linux and Windows system basics (commands, users, logs)  
+- Web application behaviour and HTTP request/response cycles  
+- Familiarity with guided virtual labs and safe testing
 
----
-
-## Next Steps
-- Continue studying toward **CompTIA Security+** to strengthen my theoretical cyber foundations.  
-- Begin **TryHackMe SOC Level 1 Path** in early 2026 to gain hands-on defensive security skills.  
-- Explore **AWS Cloud Practitioner** materials to understand cloud security principles, especially relevant for Amazon’s cybersecurity environment.
+### Next steps
+- Continue with **TryHackMe SOC Level 1** early 2026 to get hands-on defensive skills.  
+- Begin studying **CompTIA Security+** to solidify theory alongside my apprenticeship.  
+- Start AWS Cloud Practitioner intro materials to understand cloud security basics.
 
 
