@@ -114,8 +114,3 @@ I’m aiming to start with a **company or university that offers hands-on experi
 I enjoy learning by doing — building small tools, experimenting in home labs, and improving my problem-solving skills each week.  
 
 📩 **Contact:** [10taaha.nadeem@gmail.com](mailto:10taaha.nadeem@gmail.com) | 📱 07887 584147  
-
-
----
-
-📧 Contact: 10taaha.nadeem@gmail.com  07887584147
