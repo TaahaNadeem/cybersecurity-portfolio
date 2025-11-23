@@ -22,3 +22,16 @@ Skills used:
 -Generating insights
 
 The dataset includes products, categories, prices, units sold, and sale dates.
+
+## How to Run
+
+1. Clone this repository and open the `amazon-product-sales-analysis` folder.
+2. Make sure you have Python installed.
+3. Install the required libraries:
+
+   ```bash
+   pip install pandas matplotlib
+
+4. Run the analysis script:
+
+python analysis.py
