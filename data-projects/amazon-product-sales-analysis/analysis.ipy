@@ -1,27 +1,34 @@
-## first notebook cell:
+# Amazon Product Sales – Mini Data Analysis
+# Built to practise data skills for data analyst / cyber roles.
 
 import pandas as pd
 import matplotlib.pyplot as plt
 
+# 1. Load dataset
 df = pd.read_csv("dataset.csv")
 
-df.head()
+# 2. Create a Revenue column
+df["Revenue"] = df["Price"] * df["Units_Sold"]
 
-## calculate revenue:
+# 3. Top products by revenue
+top_products = (
+    df[["Product", "Category", "Revenue"]]
+    .sort_values("Revenue", ascending=False)
+)
 
-df['Revenue'] = df['Price'] * df['Units_Sold']
-df[['Product', 'Revenue']].sort_values(by="Revenue", ascending=False)
+print("Top products by revenue:")
+print(top_products.to_string(index=False))
 
-## revenue by category:
-
+# 4. Revenue by category
 category_revenue = df.groupby("Category")["Revenue"].sum()
+
+print("\nRevenue by category:")
+print(category_revenue)
+
+# 5. Simple bar chart of revenue by category
 category_revenue.plot(kind="bar")
 plt.title("Revenue by Category")
-plt.ylabel("Total Revenue")
 plt.xlabel("Category")
+plt.ylabel("Total Revenue (£)")
+plt.tight_layout()
 plt.show()
-
-## conclusion:
-
-print("Top-selling product:", df.loc[df['Units_Sold'].idxmax(), 'Product'])
-print("Highest revenue category:", category_revenue.idxmax())
