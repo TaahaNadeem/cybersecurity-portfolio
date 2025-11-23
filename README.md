@@ -1,17 +1,15 @@
 # Taaha Nadeem – Cybersecurity & Data Analysis Portfolio
   
-I’m currently building projects in cybersecurity, data analysis, and Python automation while Preparing for Cybersecurity and Data Analyst Degree Apprenticeships.
-My goal is to develop strong hands-on technical skills, understand how systems work under the hood, and use data and technology to solve real problems.
+I'm currently building projects in cybersecurity, data analysis, and Python automation while preparing for Cyber Security and Data Analyst Degree Apprenticeships. My goal is to grow strong hands-on technical skills, understand how systems work under the hood, and use data and technology to solve real problems.
 
-This portfolio includes the Python, data, and cybersecurity projects I’ve built, along with labs, certifications, and learning progress.
+This portfolio includes my Python, data, and cybersecurity projects I’ve built, along with labs, certifications, and learning progress.
 
 
 ---
 
 ## 💻 Python & Data Projects
 
-Practical coding projects that helped me learn programming, cybersecurity, and problem-solving skills.  
-Each project was built from scratch to strengthen both my coding ability and understanding of security concepts.
+Practical coding projects that helped me learn programming, cybersecurity, and problem-solving skills. Each project was built from scratch to strengthen both my coding ability and understanding of security concepts.
 
 ---
 
@@ -122,13 +120,15 @@ Skills used:
 - Creating charts  
 - Generating insights  
 
-📌 **Folder:** `data-projects/amazon-product-sales-analysis/`  
+**Folder:** `data-projects/amazon-product-sales-analysis/`  
 
 This project includes:
 - A dataset (`dataset.csv`)  
 - A full Python script (`analysis.py`)  
 - Visual charts saved in the `plots/` folder  
 - A full walkthrough in the project’s README  
+
+This project is perfect for showcasing analytical skills and is tailored for Amazon’s Data Analyst Degree Apprenticeship.
 
 ---
 
@@ -139,14 +139,14 @@ This project includes:
   → [View badges and progress screenshots](./tryhackme/)
 
 - 🐍 **SoloLearn – Introduction to Python** 
-  Improved my Python and helped me practise data-handling basics.  
+  Helped me improve Python fundamentals and practise data-handling basics.
   → [View Certificate](./certifications/sololearn-intro-to-python.pdf)
 
 - 💻 **CompTIA Security+** *(Planned for 2026 Degree Apprenticeship)*  
-  Currently studying for it to strengthen my cybersecurity fundamentals.
+  Currently studying key cybersecurity concepts.
 
 - ☁️ **AWS Cloud Practitioner (Intro)** *(Planned 2026–27)*  
-  Starting to learn how cloud environments work and how data flows in enterprise systems.
+  Starting to learn cloud environments and how data flows through enterprise systems.
 
 ---
 
@@ -154,8 +154,7 @@ This project includes:
 
 I’m currently studying **BTEC Level 3 Applied Science** at **The Sixth Form Bolton (2024–2026)** and building a strong interest in both cybersecurity and data analysis.
 
-Over the past few months, I’ve been creating Python projects, completing online labs, and learning how real systems work.
-I’m preparing to apply for Cyber Security and Data Analyst Degree Apprenticeships starting in 2026, where I can grow my technical skills through real work experience.
+Over the past few months, I’ve been creating Python projects, completing online labs, and learning real system work. I’m preparing to apply for Cyber Security and Data Analyst Degree Apprenticeships starting in 2026, where I can grow my technical skills through real work experience.
 
 I enjoy building tools, understanding how systems behave, and using data or security concepts to solve problems.
 
