@@ -8,7 +8,7 @@ This portfolio includes the Python, data, and cybersecurity projects I’ve buil
 
 ---
 
-## 💻 Python Projects
+## 💻 Python & Data Projects
 
 Practical coding projects that helped me learn programming, cybersecurity, and problem-solving skills.  
 Each project was built from scratch to strengthen both my coding ability and understanding of security concepts.
@@ -25,7 +25,8 @@ It helped me practise using Python’s `random` and `string` modules.
 **Key Skills Demonstrated:**
 - Generating secure passwords programmatically  
 - Using Python’s built-in modules  
-- Writing simple, readable code  
+- Writing simple, readable code
+- Working with data inputs, randomisation, and producing structured output
 
 **Screenshot:**  
 ![Password Generator Output](./screenshots/password_generator_output.png)  
@@ -43,7 +44,8 @@ I used threading to make it run faster and tested it safely within my home lab.
 **Key Skills Demonstrated:**
 - Understanding TCP port scanning  
 - Working with sockets and multithreading  
-- Safe testing in a lab environment  
+- Safe testing in a lab environment
+- Logging scan results and processing network data outputs
 
 **Screenshot:**  
 ![Port Scanner Output](screenshots/port_scanner_output.png)
@@ -62,18 +64,31 @@ It taught me how to handle HTTP requests and automate simple uptime monitoring t
 **Key Skills Demonstrated:**
 - Sending HTTP requests programmatically  
 - Automating monitoring tasks  
-- Handling and logging errors  
+- Handling and logging errors
+- Collecting and interpreting simple status/response data
+- Using Python to automate monitoring tasks similar to real operational analytics
 
 **Screenshot:**  
 ![Website Uptime Checker Output](screenshots/website_uptime_checker_output.png)
 →[View the code](python-projects/python_website_uptime_checker2.py)
 
 ---
+## 📊 Beginner Data Analysis Excercises 
+**Description:**  
+Small Python tasks I completed to practise analysing simple datasets, organising information, and automating tasks.
 
+Examples:
+
+- Counting occurrences of items in a list (practising grouping data)
+- Reading text files and extracting key information
+- Filtering and sorting data using Python
+- Working with dictionaries to map values
+---
 ## 🧪 Cybersecurity Home Lab
 
 My home lab simulates a small attacker-defender setup using **VirtualBox**, **Ubuntu**, and **Windows**.  
 Through this project, I learned how to scan networks, identify open ports, host services, and secure systems with Linux firewall tools.
+This project also helped me understand how system/network data appears in real environments and how to interpret scan results.
 
 **Overview:**
 - Used Nmap to scan and identify open ports  
@@ -93,28 +108,28 @@ Through this project, I learned how to scan networks, identify open ports, host 
 ## 📜 Certifications & Learning
 
 - 🔐 **TryHackMe – Introduction to Cyber Security Path** *(Completed – Oct 2025)*  
-  Completed free labs on networking, Linux, Windows, and web security fundamentals.  
+  Gave me hands-on practice with networking and Linux fundamentals.  
   → [View badges and progress screenshots](./tryhackme/)
 
 - 🐍 **SoloLearn – Introduction to Python** *(Completed – Oct 2025)*  
-  Completed a short course covering Python basics like variables, loops, and functions.  
+  Improved my Python and helped me practise data-handling basics.  
   → [View Certificate](./certifications/sololearn-intro-to-python.pdf)
 
 - 💻 **CompTIA Security+** *(Planned for 2026 Degree Apprenticeship)*  
-  Planning to complete this foundational certification alongside my apprenticeship to strengthen core cybersecurity knowledge.
+  Currently studying for it to strengthen my cybersecurity fundamentals.
 
 - ☁️ **AWS Cloud Practitioner (Intro)** *(Planned 2026–27)*  
-  Keen to explore cloud computing and security fundamentals, as they play a big role in enterprise-level cybersecurity.
+  Starting to learn how cloud environments work and how data flows in enterprise systems.
 
 ---
 
 ## 👤 About Me
 
-I’m currently studying **BTEC Level 3 Applied Science** at **The Sixth Form Bolton (2024–2026)** and developing a strong interest in **cybersecurity, ethical hacking, and programming**.  
+I’m currently studying **BTEC Level 3 Applied Science** at **The Sixth Form Bolton (2024–2026)** and building a strong interest in both cybersecurity and data analysis.
 
-Over the past few months, I’ve been working on this portfolio every week to prepare for Cybersecurity Degree Apprenticeships starting in 2026.  
-I’m aiming to join a company or university that offers **hands-on experience and real-world learning**, where I can keep improving my technical and problem-solving skills.
+Over the past few months, I’ve been creating Python projects, completing online labs, and learning how real systems work.
+I’m preparing to apply for Cyber Security and Data Analyst Degree Apprenticeships starting in 2026, where I can grow my technical skills through real work experience.
 
-I enjoy learning by doing — building small tools, setting up labs, and finding creative ways to understand how things work in tech and security.
+I enjoy building tools, understanding how systems behave, and using data or security concepts to solve problems.
 
 📩 **Contact:** [10taaha.nadeem@gmail.com](mailto:10taaha.nadeem@gmail.com) | 📱 07887 584147
