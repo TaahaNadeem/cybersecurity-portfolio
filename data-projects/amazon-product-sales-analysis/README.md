@@ -34,4 +34,4 @@ The dataset includes products, categories, prices, units sold, and sale dates.
 
 4. Run the analysis script:
 
-"python analysis.py."
+python analysis.py
