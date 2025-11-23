@@ -40,7 +40,7 @@ plt.title("Revenue by Category")
 plt.xlabel("Category")
 plt.ylabel("Total Revenue (£)")
 plt.tight_layout()
-plt.savefig("revenue_by_category.png")  # save chart for GitHub
+plt.savefig("plots/revenue_by_category.png")  # save chart for GitHub
 plt.show()
 
 # 5. Revenue by month (using the Date column)
@@ -60,7 +60,7 @@ plt.title("Revenue Over Time")
 plt.xlabel("Month")
 plt.ylabel("Revenue (£)")
 plt.tight_layout()
-plt.savefig("revenue_over_time.png")  # save chart for GitHub
+plt.savefig("plots/revenue_over_time.png")  # save chart for GitHub
 plt.show()
 
 # 6. Simple text summary / mini report
