@@ -1,4 +1,4 @@
-# Taaha Nadeem – Technical Learning Portfolio
+# Taaha Nadeem – Cybersecurity & Data Analysis Portfolio
   
 Cybersecurity and Python projects built while preparing for 2026 Degree Apprenticeships — focused on practical learning, problem-solving, and real-world security skills.
 
