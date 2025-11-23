@@ -1,6 +1,6 @@
 # Taaha Nadeem – Cybersecurity & Data Analysis Portfolio
   
-I’m currently building projects in cybersecurity, data analysis, and Python automation while preparing for 2026 Degree Apprenticeships.
+I’m currently building projects in cybersecurity, data analysis, and Python automation while Preparing for Cybersecurity and Data Analyst Degree Apprenticeships.
 My goal is to develop strong hands-on technical skills, understand how systems work under the hood, and use data and technology to solve real problems.
 
 This portfolio includes the Python, data, and cybersecurity projects I’ve built, along with labs, certifications, and learning progress.
@@ -107,11 +107,11 @@ This project also helped me understand how system/network data appears in real e
 
 ## 📜 Certifications & Learning
 
-- 🔐 **TryHackMe – Introduction to Cyber Security Path** *(Completed – Oct 2025)*  
-  Gave me hands-on practice with networking and Linux fundamentals.  
+- 🔐 **TryHackMe – Introduction to Cyber Security Path**
+  Completed modules in networking, Linux, Python, and web fundamentals.
   → [View badges and progress screenshots](./tryhackme/)
 
-- 🐍 **SoloLearn – Introduction to Python** *(Completed – Oct 2025)*  
+- 🐍 **SoloLearn – Introduction to Python** 
   Improved my Python and helped me practise data-handling basics.  
   → [View Certificate](./certifications/sololearn-intro-to-python.pdf)
 
