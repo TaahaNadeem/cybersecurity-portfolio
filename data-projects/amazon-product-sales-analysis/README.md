@@ -1,4 +1,4 @@
-Amazon Product Sales – Mini Data Analysis Project
+# Amazon Product Sales – Mini Data Analysis Project
 
 This small data project was created to practise core Data Analyst skills that I will use in real apprenticeship roles.
 The goal was to analyse a small realistic dataset, generate insights, and visualise results.
