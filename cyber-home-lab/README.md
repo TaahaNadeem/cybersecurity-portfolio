@@ -1,4 +1,5 @@
-## Cybersecurity Home Lab — Nmap & Firewall Test
+# Cybersecurity Home Lab – Nmap & Firewall Testing
+This is an isolated home lab using VirtualBox (Ubuntu + Windows) I built to practise scanning, firewall configuration, and network fundamentals safely.
 
 **Date:** 2025-10-05  
 **Attacker:** Windows host (Nmap)  
@@ -67,7 +68,12 @@ Enabled and configured UFW on Ubuntu to block port 8000.
 ![Nmap After UFW Block](../screenshots/nmap_after_ufw_block.png)
 
 ---
-
+### Skills Developed
+- Nmap scanning & enumeration
+- Understanding network ports and services
+- Basic Linux administration (UFW, services)
+- Analysing security configurations
+  
 ### Summary
 This lab helped me understand how firewalls interact with network scanning tools like Nmap.  
 I learned how to:
