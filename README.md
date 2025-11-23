@@ -73,6 +73,7 @@ It taught me how to handle HTTP requests and automate simple uptime monitoring t
 →[View the code](python-projects/python_website_uptime_checker2.py)
 
 ---
+
 ## 📊 Beginner Data Analysis Excercises 
 **Description:**  
 Small Python tasks I completed to practise analysing simple datasets, organising information, and automating tasks.
@@ -83,7 +84,9 @@ Examples:
 - Reading text files and extracting key information
 - Filtering and sorting data using Python
 - Working with dictionaries to map values
+
 ---
+
 ## 🧪 Cybersecurity Home Lab
 
 My home lab simulates a small attacker-defender setup using **VirtualBox**, **Ubuntu**, and **Windows**.  
@@ -103,6 +106,30 @@ This project also helped me understand how system/network data appears in real e
 - ![Open Port Detected](screenshots/nmap_with_http8000.png)
 - ![Firewall Rule Applied](screenshots/ufw_status.png)
 - ![After Blocking Port](screenshots/nmap_after_ufw_block.png)
+
+---
+
+### 📦 Amazon Product Sales – Mini Data Analysis Project
+A small data analysis project I created to practise the technical skills needed for Data Analyst apprenticeships.
+
+Skills used:
+
+- Python (pandas & matplotlib)  
+- Data cleaning  
+- Data manipulation  
+- GroupBy analysis  
+- Date handling  
+- Creating charts  
+- Generating insights  
+
+📌 **Folder:** `data-projects/amazon-product-sales-analysis/`  
+
+This project includes:
+- A dataset (`dataset.csv`)  
+- A full Python script (`analysis.py`)  
+- Visual charts saved in the `plots/` folder  
+- A full walkthrough in the project’s README  
+
 ---
 
 ## 📜 Certifications & Learning
