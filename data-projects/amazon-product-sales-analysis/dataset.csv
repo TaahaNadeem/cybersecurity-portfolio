@@ -1,1 +1,11 @@
-
+Product,Category,Price,Units_Sold,Date
+Wireless Mouse,Electronics,12.99,180,2025-01-12
+Laptop Stand,Office,34.50,95,2025-01-15
+USB-C Cable,Electronics,7.99,310,2025-01-21
+Notebook Set,Office,5.49,220,2025-02-03
+Water Bottle,Sports,14.99,140,2025-02-10
+Headphones,Electronics,29.99,125,2025-02-17
+Desk Lamp,Office,22.99,80,2025-03-01
+Yoga Mat,Sports,19.99,65,2025-03-05
+Keyboard,Electronics,39.99,70,2025-03-12
+Backpack,Sports,24.99,100,2025-03-20
